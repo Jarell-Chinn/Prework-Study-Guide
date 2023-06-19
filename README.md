@@ -2,8 +2,6 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
 - I want to have a better understanding on they keywords in coding and the overall coding process.
 - This Study Guide will help me succeed during my bootcamp.
 - I will be placing and updating notes throughout the bootcamp here to help keep them organized and to see how far I've come to keep myself motivated to continue learning.
