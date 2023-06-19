@@ -2,7 +2,7 @@
 
 ## Description
 
-- I want to have a better understanding on they keywords in coding and the overall coding process.
+- I want to have a better understanding on the keywords in coding and the overall coding process.
 - This Study Guide will help me succeed during my bootcamp.
 - I will be placing and updating notes throughout the bootcamp here to help keep them organized and to see how far I've come to keep myself motivated to continue learning.
 - I have learned the foundations of HTML, CSS, Git, and JavaScript! And if you can read this, that means I learned how to deploy it as well!
@@ -47,6 +47,6 @@ SOFTWARE.
 ## Features
 
 Hosts my Bootcamp Prework notes and organizes them into HTML, CSS, Git, JavaScript.
-It also demonstrates the basics of each subject by the websites existants.
+It also demonstrates the basics of each subject by the website's existants.
 Also has the ability to randomly select one of the subjects to study.
 
