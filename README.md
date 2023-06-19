@@ -54,5 +54,5 @@ SOFTWARE.
 
 Hosts my Bootcamp Prework notes and organizes them into HTML, CSS, Git, JavaScript.
 It also demonstrates the basics of each subject by the websites existants.
-
+Also has the ability to randomly select one of the subjects to study.
 
